@@ -1,5 +1,15 @@
-
 void configurarMp3()
+
+// definir reproductor mp3 y sus respectivos pines
+#if (defined(ARDUINO_AVR_UNO) || defined(ESP8266)) 
+
+// comunicacion serial
+#include <SoftwareSerial.h>
+SoftwareSerial softSerial(/*rx =*/10, /*tx =*/11);
+#define FPSerial softSerial
+#else
+#define FPSerial Serial1
+#endif
 
 DFRobotDFPlayerMini myDFPlayer;
 void printDetail(uint8_t type, int value);
