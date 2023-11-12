@@ -4,7 +4,7 @@
 
 Proyecto resignificación de una lámpara de pie con el concepto de cápsula de tiempo.
 
-Se usa para recordar a seres queridos. Guarda e inmortaliza audios importantes.
+Nuestro objetivo es recordar a seres queridos. Guarda e inmortaliza audios importantes.
 
 ## equipo
 
