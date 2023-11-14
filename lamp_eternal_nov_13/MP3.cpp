@@ -2,10 +2,6 @@
 #include "MP3.h"
 
 
-#define SPEAKER_PIN 3
-#define MP3_PIN 10
-#define MP3_PIN2 11
-
 
 // definir reproductor mp3 y sus respectivos pines
 #if (defined(ARDUINO_AVR_UNO) || defined(ESP8266))
