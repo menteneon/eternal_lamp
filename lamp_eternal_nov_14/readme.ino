@@ -8,6 +8,7 @@
 // GitHub https://github.com
 // Sensor HC SR04
 // Reproductor MP3
+// Preamplificador
 // Tarjeta SD
 // Relay
 // Soquete

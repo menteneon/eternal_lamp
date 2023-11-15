@@ -9,4 +9,6 @@ void configurarMP3();
 
 void actualizarMP3();
 
+void tocarMP3();
+
 #endif

@@ -12,6 +12,7 @@ NewPing sonar(TRIGGER_PIN, ECHO_PIN, 60);
 
 bool detecta(int pin) {
   if (digitalRead(pin) == HIGH) {
+    estado = 1; // solo debo cambiar una vez
     return true;
   } else {
     return false;

@@ -122,3 +122,8 @@ void printDetail(uint8_t type, int value) {
       break;
   }
 }
+
+void tocarMP3() {
+  myDFPlayer.play(random(1, 10));
+  audioIniciado = true;
+}

@@ -1,3 +1,4 @@
-// aqui explicar como hicimos la conexion al arduino4 a 7
-// conectar pin 
+// aqui explicar como hicimos la conexion al arduino
+
+// conectar pin 4 a 7
 // blablabla
