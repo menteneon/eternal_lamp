@@ -57,3 +57,9 @@ Esta lámpara está siendo realizada por @janisepulveda, @menteneon y @ssofiasan
 * https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 * https://github.com/DFRobot/DFRobotDFPlayerMini
   
+## Diseñado por
+
+* Vale montecinos @menteneon
+* Janis Sepulveda @janisepulveda
+* Sofía Sandoval @ssofiasandoval
+  
