@@ -1,6 +1,4 @@
 #include "Arduino.h"
-// #include "DFRobotDFPlayerMini.h"
-
 #include "MP3.h"
 #include "HCSR04.h"
 
@@ -42,7 +40,7 @@ void enciendeLuz(){
       previousMillis = currentMillis;
 
       // realiza la accion
-      estado =2:
+      estado =2;
       
     }
   
@@ -116,8 +114,8 @@ void loop() {
       esperaFinal(); //4
       break;
 
-      default:
-      break;
+      // default:
+      // break;
     }
 
   }
