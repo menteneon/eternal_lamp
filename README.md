@@ -60,6 +60,6 @@ Esta lámpara está siendo realizada por @janisepulveda, @menteneon y @ssofiasan
 ## Diseñado por
 
 * Vale montecinos @menteneon
-* Janis Sepulveda @janisepulveda
+* Janis Sepúlveda @janisepulveda
 * Sofía Sandoval @ssofiasandoval
   
